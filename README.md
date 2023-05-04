@@ -5,3 +5,6 @@
 estou novo ramo(branch)
 
 alteração feita localmente 
+estou no novo ramo(branch)
+
+alteração feita no github
