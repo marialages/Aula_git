@@ -1,9 +1,11 @@
-# Aula_git
-### Comandos git  finalizando aula de git e github
+# Exercicio github
+### Alterando a interface do programa
 
 
-estou no novo ramo(branch)
+Colonado uma nova foto 
+
+![image](https://user-images.githubusercontent.com/108774026/236702583-e50217e3-6e1a-474d-9fde-574350490a4c.png)
 
 
-alteração feita localmente   
-alteração feita no github
+
+Obs:Alterando localmente
